@@ -3,5 +3,5 @@ Repositório criado para o Desafio de Projeto.
 
 ## Links Utéis
 <ul>
-<li>[Sintaxe Básica MarkDown](https://www.markdownguide.org/basic-syntax/)</li>
+<li> <a href="https://www.markdownguide.org/basic-syntax/"> Sintaxe Básica MarkDown</a> </li>
 </ul>
