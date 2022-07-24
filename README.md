@@ -1,7 +1,7 @@
-# Repositório do Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o Desafio de Projeto.
+# Repositório de Desafios da DIO
+Repositório criado para os Desafios da DIO
 
-## Links Utéis
+## Projetos da DIO
 <ul>
-<li> <a href="https://www.markdownguide.org/basic-syntax/"> Sintaxe Básica MarkDown</a> </li>
+<li>Desafio da <a href="https://github.com/SpruceGabriela"> SpruceGabriela</a> Recriando a Página Inicial do Instagram.</li>
 </ul>
