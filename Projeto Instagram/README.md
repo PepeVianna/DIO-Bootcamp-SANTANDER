@@ -1,7 +1,3 @@
-# Repositório do Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o Desafio de Projeto.
-
-## Links Utéis
-<ul>
-<li> <a href="https://www.markdownguide.org/basic-syntax/"> Sintaxe Básica MarkDown</a> </li>
-</ul>
+# Repositório do Desafio DIO - Recriando a Página de Login do Instagram
+Esse é o repositório da aula de Flexbox, na qual fizemos a interface de login do Instagram! :D
+Créditos - [SpruceGabriela](https://github.com/SpruceGabriela/instagram-dio)
