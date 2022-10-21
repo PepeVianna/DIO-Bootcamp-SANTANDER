@@ -3,5 +3,8 @@
 
 ## Projetos:
 <ul>
-<li>Desafio da <a href="https://github.com/SpruceGabriela"> SpruceGabriela</a> - <a href="https://github.com/PepeVianna/dio-desafio-github-primeiro-repositorio/tree/main/Projeto%20Instagram"> Recriando a Página Inicial do Instagram.</a></li>
+<li> <a href="https://github.com/PepeVianna/dio-desafio-github-primeiro-repositorio/tree/main/Projeto%20Instagram"> Recriando a Página Inicial do Instagram.</a></li>
+<li> <a href="https://github.com/PepeVianna/dio-desafios/tree/main/BancoDigital">Fazendo um Banco Digital</a></li>
+<li> <a href="https://github.com/PepeVianna/dio-desafios/tree/main/Page%20Dark-Light%20MODE">Dark-Light Mode</a></li>
+<li> <a href="https://github.com/PepeVianna/dio-desafios/tree/main/dio_desafio_ecommerce-main">Fazendo um Ecommerce</a></li>
 </ul>
