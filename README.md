@@ -1,5 +1,5 @@
 # Repositório de Desafios da DIO
-Repositório criado para os Desafios da DIO
+![bootcampsantander](https://user-images.githubusercontent.com/106346545/197267519-2a27779d-d3b2-4577-bf4e-44fa51fdf113.png)
 
 ## Projetos:
 <ul>
