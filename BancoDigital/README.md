@@ -1,2 +1,0 @@
-# BancoDigital
-Desafio-Dio
